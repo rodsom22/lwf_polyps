@@ -66,7 +66,7 @@ The process to run the polyp localization models is similar to the described for
 adding the models and examples soon. 
 
 ## Citation
-If this work is useful for your research, please cite our [paper](https://link.springer.com/chapter/10.1007%2F978-3-030-01364-6_17):
+If this work is useful for your research, please cite our [paper](https://arxiv.org/abs/2002.02883):
 ```
 @misc{soberanismukul2020learning,
     title={A learning without forgetting approach to incorporate artifact knowledge in polyp localization tasks},
